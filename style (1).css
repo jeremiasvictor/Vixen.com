@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.pesquisa{
+    position: relative;
+    right: 600px;
+    text-decoration: none;
+    text-align-last: 70px;
+    text-align: center;
+    width: 600px;
+    border-radius: 400px;
+    position: relative;
+    right: 480px;
+    border: none;
+
+}
+
+#carouselExampleDark{
+    margin-top: 50px;
+    width:90%;
+}
+
+.carrin{
+    position: absolute;
+    top: 27px;
+    right: 7px;
+}
+
+#nome{
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.container{
+    display: inline;
+}
+
+
+#fot {
+    background-color: black;
+}
+
+.sub{
+    width: 60%;
+}
+
+.verao{
+    border: 2px solid black;
+    margin: 0px 200px 0px 200px;
+}
+
+.row {
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+#logozinha {
+    width: 7%;
+    height: 7%;
+}
+
+footer h5 {
+    color: cornsilk;
+}
+
+.text-center {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 80px;
+}
+
+#botao-entrar-login {
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.pag {
+    margin-top: 300px;
+}
+

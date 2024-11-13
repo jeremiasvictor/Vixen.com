@@ -1,0 +1,31 @@
+
+#calo{
+    background-color: #747474;
+    margin-left: 270px;
+    margin-right: 270px;
+    margin-top: 10px;
+    border: 3px groove black;
+    border-radius: 30px;
+
+}
+
+#alerta{
+    position: fixed;
+    border-radius: 100px;
+    top: 40px;
+    right: 20px;
+    font-size: 14px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.mb-3{position: relative;
+    width: 550px;
+    background-color: #ffffff;
+    margin: 2px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 4px groove black;
+    position: relative;
+    top: 40px;
+    font-family: 'Rubik', sans-serif;
+}
