@@ -53,7 +53,7 @@ Contribuições são bem-vindas! Se você gostaria de contribuir com o projeto, 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Autores
-Jeremias Santos
-Mateus Santana
-Alvaro Júnior
-Andrei Sacramento
+- Jeremias Santos
+- Mateus Santana
+- Alvaro Júnior
+- Andrei Sacramento
